@@ -13,4 +13,8 @@ hahahahh
 this is hhhhhhhh 
 llhhaihaihaiha
 haikjha
+<<<<<<< HEAD
 this is write by master
+=======
+the last line
+>>>>>>> feature1
