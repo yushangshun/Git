@@ -15,8 +15,6 @@ wirte write gby masrej
 how time flies!
 git merge -m "hebinghou " file
 
-<<<<<<< HEAD
 222222222222222
-=======
 heh111111111111
->>>>>>> dev
+66666666666666
