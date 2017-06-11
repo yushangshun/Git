@@ -12,3 +12,6 @@ haikjha
 this is write by master 
 the last line
 wirte write gby masrej
+how time flies!
+git merge -m "hebinghou " file
+
