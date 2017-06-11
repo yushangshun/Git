@@ -1,8 +1,4 @@
-git is a free system
-
-git is a powerfull tool
-
- hit hell 
+git is a free system git is a powerfull tool hit hell 
 git is distrubuidt
 
 
@@ -13,8 +9,5 @@ hahahahh
 this is hhhhhhhh 
 llhhaihaihaiha
 haikjha
-<<<<<<< HEAD
-this is write by master
-=======
+this is write by master 
 the last line
->>>>>>> feature1
