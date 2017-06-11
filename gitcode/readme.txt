@@ -11,3 +11,6 @@ llhhaihaihaiha
 haikjha
 this is write by master 
 the last line
+how time flies!
+git merge -m "hebinghou " file
+
